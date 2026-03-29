@@ -1,0 +1,62 @@
+folder,filename,matched_file,status,question
+2022,2022_,2022/2022_cols.csv,found,Date submitted
+2018,2018_,2018/2018_cols.csv,found,Date submitted
+2017,2017_,2017/2017_cols.csv,found,Date submitted
+2016,2016_,2016/2016_cols.csv,found,Date submitted
+2022,2022_,2022/2022_cols.csv,found,Last page
+2018,2018_,2018/2018_cols.csv,found,Last page
+2017,2017_,2017/2017_cols.csv,found,Last page
+2016,2016_,2016/2016_cols.csv,found,Last page
+2022,2022_,2022/2022_cols.csv,found,Start language
+2018,2018_,2018/2018_cols.csv,found,Start language
+2017,2017_,2017/2017_cols.csv,found,Start language
+2016,2016_,2016/2016_cols.csv,found,Start language
+2022,2022_,2022/2022_cols.csv,found,Date started
+2018,2018_,2018/2018_cols.csv,found,Date started
+2017,2017_,2017/2017_cols.csv,found,Date started
+2016,2016_,2016/2016_cols.csv,found,Date started
+2022,2022_currentEmp1,2022/2022_currentEmp13.csv,found,Please select your organization type
+2018,2018_currentEmp1,2018/2018_currentEmp13.csv,found,Please select your organization type
+2017,2017_currentEmp1,2017/2017_currentEmp13.csv,found,Please select your organization type
+2022,2022_currentEmp13,2022/2022_currentEmp13.csv,found,Please select the discipline in which you work
+2018,2018_currentEmp13,2018/2018_currentEmp13.csv,found,Please select the discipline in which you work
+2017,2017_currentEmp13,2017/2017_currentEmp13.csv,found,Please select the discipline in which you work
+2022,2022_currentEmp13aus,2022/2022_currentEmp13aus.csv,found,Please select the discipline in which you work
+2018,2018_currentEmp13aus,2018/2018_currentEmp13aus.csv,found,Please select the discipline in which you work
+2022,2022_prevEmp2,2022/2022_prevEmp2.csv,found,Rank the following factors dependent on how strongly they influenced your decision to accept your current position
+2018,2018_prevEmp2,2018/2018_prevEmp2.csv,found,Rank the following factors dependent on how strongly they influenced your decision to accept your current position
+2017,2017_prevEmp2,2017/2017_prevEmp2.csv,found,Rank the following factors dependent on how strongly they influenced your decision to accept your current position
+2022,2022_conf2can,2022/2022_conf2can.csv,found,At which conference(s)/workshop(s) have you presented your software work?
+2018,2018_conf2can,2018/2018_conf2can_0.csv,found,At which conference(s)/workshop(s) have you presented your software work?
+2017,2017_conf2can,2017/2017_conf2can.csv,found,At which conference(s)/workshop(s) have you presented your software work?
+2022,2022_proj4can,2022/2022_proj4can.csv,found,How are your projects typically tested? Please check all that apply
+2018,2018_proj4can,2018/2018_proj4can.csv,found,How are your projects typically tested? Please check all that apply
+2017,2017_proj4can,2017/2017_proj4can.csv,found,How are your projects typically tested? Please check all that apply
+2022,2022_open3de,2022/2022_open3de_0.csv,found,Which tools do you use to mint a DOI (e
+2018,2018_open3de,2018/2018_open3de_0.csv,found,Which tools do you use to mint a DOI (e
+2017,2017_open3de,2017/2017_open3de.csv,found,Which tools do you use to mint a DOI (e
+2022,2022_proj5zaf,2022/2022_proj5zaf.csv,found,Which version control tools do you use for software development?
+2018,2018_proj5zaf,2018/2018_proj5zaf.csv,found,Which version control tools do you use for software development?
+2017,2017_proj5zaf,2017/2017_proj5zaf.csv,found,Which version control tools do you use for software development?
+2022,2022_proj6zaf,2022/2022_proj6zaf_0.csv,found,Which online collaboration tools and open repositories do you use for software development?
+2018,2018_proj6zaf,2018/2018_proj6zaf_0.csv,found,Which online collaboration tools and open repositories do you use for software development?
+2017,2017_proj6zaf,2017/2017_proj6zaf.csv,found,Which online collaboration tools and open repositories do you use for software development?
+2022,2022_train3,2022/2022_train3.csv,found,"What training programs are you involved with (comma separated list, e"
+2018,2018_train3,2018/2018_train3_0.csv,found,"What training programs are you involved with (comma separated list, e"
+2017,2017_train3,2017/2017_train3.csv,found,"What training programs are you involved with (comma separated list, e"
+2022,2022_fund2,2022/2022_fund2.csv,found,Which of the following sources are used to pay for your effort as an RSE?
+2018,2018_fund2,2018/2018_fund2.csv,found,Which of the following sources are used to pay for your effort as an RSE?
+2017,2017_fund2,2017/2017_fund2.csv,found,Which of the following sources are used to pay for your effort as an RSE?
+2022,2022_org2can,2022/2022_org2can.csv,found,What would you hope to get out of such an organisation (check all that apply)?
+2018,2018_org2can,2018/2018_org2can.csv,found,What would you hope to get out of such an organisation (check all that apply)?
+2022,2022_tool4can,2022/2022_tool4can.csv,found,What programming languages do you use at work? Please select all that apply
+2018,2018_tool4can,2018/2018_tool4can.csv,found,What programming languages do you use at work? Please select all that apply
+2017,2017_tool4can,2017/2017_tool4can.csv,found,What programming languages do you use at work? Please select all that apply
+2022,2022_ukrse3,2022/2022_ukrse3_skill2.csv,found,How did you learn the skills you need to become an Research Software Engineer / Research Software Developer?
+2018,2018_ukrse3,2018/2018_ukrse3_skill2.csv,found,How did you learn the skills you need to become an Research Software Engineer / Research Software Developer?
+2017,2017_ukrse3,2017/2017_ukrse3_skill2.csv,found,How did you learn the skills you need to become an Research Software Engineer / Research Software Developer?
+2016,2016_skill2,2016/2016_skill2.csv,found,What three skills would you like to acquire or improve to help your work as a Research Software Engineer/ Research Software Developer? The skills can be technical and non-technical
+2022,2022_,2022/2022_cols.csv,found,NA
+2018,2018_,2018/2018_cols.csv,found,NA
+2017,2017_,2017/2017_cols.csv,found,NA
+2016,2016_,2016/2016_cols.csv,found,NA

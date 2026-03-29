@@ -1,0 +1,139 @@
+code,que_num,country,sub_other,question
+NA,NA,NA,NA,Date submitted
+NA,NA,NA,NA,Last page
+NA,NA,NA,NA,Start language
+NA,NA,NA,NA,Date started
+socio,1,,NA,In which country do you work?
+rse,1,,NA,Do you write software for academic research as part of your job
+edu,1,qde,NA,What is the highest level of education you have attained?
+edu,1,qnl,NA,What is the highest level of education you have attained?
+edu,1,qus,NA,What is the highest level of education you have attained?
+edu,1,quk,NA,What is the highest level of education you have attained?
+edu,1,qnzl,NA,What is the highest level of education you have attained?
+edu,1,qcan,NA,What is the highest level of education you have attained?
+edu,1,qaus,NA,What is the highest level of education you have attained?
+edu,1,qnord,NA,What is the highest level of education you have attained?
+edu,1,qworld,NA,What is the highest level of education you have attained?
+edu,2,,NA,In which discipline is your highest academic qualification?
+edu,2,qaus,NA,In which discipline is your highest academic qualification?
+edu,4,,NA,List any professional qualifications you hold (eg
+rse,4,de,NA,Does the majority of your role comprise leading a group of software developers or RSEs?
+rse,3,,NA,Who uses the code that you write?
+soft,2,can,NA,Do you consider yourself a professional software developer?
+soft,1,can,NA,How many years of software development experience do you have?
+time,1,can,NA,"On average, how much of your time is spent developing software?"
+time,2,can,NA,"On average, how much of your time is spent on research"
+time,3,can,NA,"On average, how much of your time is spent on management"
+time,4,can,NA,"On average, how much of your time is spent on teaching"
+time,5,can,NA,"On average, how much of your time is spent on other activities"
+timeLike,6,zaf,NA,"In an average month, how much time would you like to spend on software development?"
+timeLike,7,zaf,NA,"In an average month, how much time would you like to spend on research"
+timeLike,8,zaf,NA,"In an average month, how much time would you like to spend on management"
+timeLike,9,zaf,NA,"In an average month, how much time would you like to spend on teaching"
+timeLike,10,zaf,NA,"In an average month, how much time would you like to spend on other activities"
+currentEmp,1,,NA,Please select your organization type
+currentEmp,1,,[other],Please select your organization type
+currentEmp,1,qde,NA,Please select your organization type
+currentEmp,1,qde,[other],Please select your organization type
+currentEmp,1,nl,NA,Please select your organization type
+currentEmp,1,nl,[other],Please select your organization type
+currentEmp,20,deqde,NA,Which Fraunhofer institute do you work for?
+currentEmp,20,deqde,[other],Which Fraunhofer institute do you work for?
+currentEmp,21,deqde,NA,Which Helmholtz institute do you work for?
+currentEmp,22,deqde,NA,Which Leibniz institute do you work for?
+currentEmp,23,deqde,NA,Which Max-Planck institute do you work for?
+currentEmp,23,deqde,[other],Which Max-Planck institute do you work for?
+currentEmp,24,deqde,NA,Which University of Applied Sciences do you work for?
+currentEmp,20,qus,NA,Which national laboratory do you work for?
+currentEmp,20,qus,[other],Which national laboratory do you work for?
+currentEmp,5,,NA,What is your official job title?
+currentEmp,6,,NA,Are you known in your group by a different job title?
+currentEmp,60,,NA,Please enter the job title you use
+currentEmp,12,,NA,Do you work full time or part time
+currentEmp,9,,NA,When did you start your current position?
+currentEmp,10,,NA,What is the nature of your current employment?
+currentEmp,11,,NA,What is the expected duration (in years) of your current position (in total)?
+currentEmp,13,,NA,Please select the discipline in which you work
+currentEmp,13,aus,NA,Please select the discipline in which you work
+prevEmp,1,,NA,Where was your previous job based?
+prevEmp,1,,[other],Where was your previous job based?
+prevEmp,1,qde,[other],Where was your previous job based?
+prevEmp,2,,NA,Rank the following factors dependent on how strongly they influenced your decision to accept your current position
+currentWork,1,,NA,"Do you always work with the same researchers, or do you regularly change the researchers you work with?"
+currentWork,2,,NA,Are you part of a dedicated research software group within your institution?
+paper,2,mod,NA,"In general, when your software contributes to a paper, are you acknowledged in that paper?"
+conf,1,can,NA,Have you presented your software work at a conference or workshop?
+conf,2,can,NA,At which conference(s)/workshop(s) have you presented your software work?
+proj,1,can,NA,How many software projects are you currently involved in?
+proj,2,can,NA,How many software developers typically work on your projects?
+proj,7,can,NA,What percentage of these developers are dedicated to the project full time?
+proj,8,can,NA,Do your research software projects typically include a project manager?
+stability,1,,NA,What is the bus factor of your most important software project? (The bus factor designates the minimal number of developers that have to be hit by a bus (or quit) before a project is incapacitated)
+stability,2,,NA,Do the projects you work on typically have a plan to cope with developers leaving the group?
+proj,4,can,NA,How are your projects typically tested? Please check all that apply
+proj,5,can,NA,What development methodology does your current project use?
+proj,5,can,[other],What development methodology does your current project use?
+open,1,can,NA,How often do you use an open-source licence for your software?
+open,2,de,NA,How often do you reference software directly or the papers describing the software?
+open,3,can,NA,How often do you associate your software with a Digital Object Identifier (DOI)?
+open,3,de,NA,Which tools do you use to mint a DOI (e
+open,1,de,NA,Do you have an ORCID ID?
+proj,5,zaf,NA,Which version control tools do you use for software development?
+proj,6,zaf,NA,Which online collaboration tools and open repositories do you use for software development?
+train,2,,NA,"On average, how many times a year do you take part in providing training?"
+train,3,,NA,"What training programs are you involved with (comma separated list, e"
+fund,2,,NA,Which of the following sources are used to pay for your effort as an RSE?
+fund,2,,[other],Which of the following sources are used to pay for your effort as a Research Software Engineer?
+fund,1,can,NA,How is your current research software work funded?
+fund,1,can,[other],How is your current research software work funded?
+recog,1,,NA,Do you feel that your contribution to research is recognised by your supervisor/line manager
+recog,2,,NA,Do you feel that your contribution to research is recognised by the researchers you work with
+recog,3,,NA,Do you feel that your contribution to research is recognised by your institution?
+turnOver,3,,NA,How often do you consider leaving your job?
+turnOver,6,,NA,I would accept another job at the same compensation level if I was offered it
+percEmp,1,,NA,It would not be very difficult for me to get an equivalent job in a different institution
+percEmp,3,,NA,My experience is in demand on the labour market
+progRSE,1,,NA,It is likely that I will gain a promotion within my current group
+progRSE,2,,NA,The process I have to complete to gain a promotion is clear and understandable
+progRSE,3,,NA,There are many opportunities within my chosen career plan
+progRSE,5,,NA,It is likely that my next position will be an Research Software Engineer / Research Software Developer role
+satisGen,1,,NA,"In general, how satisfied are you with your current position"
+satisGen,2,,NA,"In general, how satisfied are you with your career"
+socio,3,,NA,Please select your age
+socio,11,ausnzlqnzl,NA,What is the category of your pay-scale?
+socio,11,ausnzlqnzl,[other],What is the category of your pay-scale?
+socio,11,ausnzlqaus,NA,What is the category of your pay-scale?
+socio,11,ausnzlqaus,[other],What is the category of your pay-scale?
+socio,12,ausnzlqnzl,NA,What is your academic pay-level?
+socio,12,ausnzlqaus,NA,What is your academic pay-level?
+socio,13,ausnzlqnzl,NA,What is your pay-level?
+socio,13,ausnzlqnzl,[other],What is your pay-level?
+socio,13,ausnzlqaus,NA,What is your pay-level?
+socio,13,ausnzlqaus,[other],What is your pay-level?
+socio,14,ausnzlqaus,NA,What is your government pay-level?
+ukrse,1,,NA,Are you a member of an association of Research Software Developers (e
+org,1,can,NA,Would you be interested in joining such an organisation?
+org,2,can,NA,What would you hope to get out of such an organisation (check all that apply)?
+org,2,can,[other],What would you hope to get out of such an organisation (check all that apply)?
+org,3,us,NA,What specific activities or forums would you like to see your national association provide?
+org,4,us,NA,What would a national organization need to provide in order for you to pay membership dues?
+org,5,us,NA,How much would you be willing to pay as an annual membership fee to join a national association?
+tool,2,,NA,Which operating system do you primarily use for development?
+tool,2,,[other],Which operating system do you primarily use for development?
+tool,4,can,NA,What programming languages do you use at work? Please select all that apply
+tool,4,can,[other],What programming languages do you use at work? Please select all that apply
+tool,5,can,NA,On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,can,[SQ009],On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,can,[SQ008],On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,,[SQ003],On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,,[SQ004],On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,,[SQ005],On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,,[SQ006],On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,,[SQ007],On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,,[SQ009],On which platform(s) is your most recent research software project deployed? Please select all that apply
+tool,5,,[SQ008],On which platform(s) is your most recent research software project deployed? Please select all that apply
+ukrse,3,,NA,How did you learn the skills you need to become an Research Software Engineer / Research Software Developer?
+ukrse,12,de,NA,Would you like to attend a conference about software development in academia?
+skill,2,,NA,What three skills would you like to acquire or improve to help your work as a Research Software Engineer/ Research Software Developer? The skills can be technical and non-technical
+NA,NA,NA,NA,NA
+currentEmp,2,,NA,Which university do you work for?

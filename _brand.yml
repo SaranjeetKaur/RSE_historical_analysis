@@ -1,0 +1,70 @@
+# _brand.yml — RSE (Society of Research Software Engineering)
+# Colors below are sampled/approximated from the RSE logo.
+
+meta:
+  name:
+    short: RSE
+    full: Society of Research Software Engineering
+  link:
+    home: https://society-rse.org/
+
+#logo:
+#  images:
+#    primary:
+#      path: logos/rse-logo.png # TODO: save the attached logo here
+#      alt: RSE logo.
+#  small: primary
+#  medium: primary
+#  large: primary
+
+color:
+  palette:
+    # Core brand shades from the logo
+    plum: "#6D0044"        # dominant RSE plum (primary)
+    plum-deep: "#580036"   # darker plum
+    plum-dark: "#4B002E"   # darkest plum
+    rose: "#C3759B"        # lighter accent pink from logo
+    grey-1: "#D1CDC9"      # light grey from logo
+    grey-2: "#B2ADA8"      # mid grey from logo
+    white: "#FFFFFF"
+
+  # Semantic mapping
+  background: white
+  foreground: plum-dark
+  primary: plum
+  secondary: rose
+  light: white
+  dark: plum-dark
+
+typography:
+  fonts:
+    - family: Inter
+      source: google
+      weight: [400, 600, 700]
+      style: [normal, italic]
+    - family: Fira Code
+      source: bunny
+      weight: [400, 500, 600]
+      style: [normal]
+
+  base:
+    family: Inter
+    weight: 400
+    size: 16px
+    line-height: 1.55
+
+  headings:
+    family: Inter
+    weight: 700
+    line-height: 1.15
+    color: plum-dark
+
+  monospace:
+    family: Fira Code
+    weight: 400
+    size: 0.95em
+
+  link:
+    weight: 600
+    color: plum
+    decoration: underline
