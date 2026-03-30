@@ -46,14 +46,14 @@
     "href": "funding.html",
     "title": "Funding sources for RSE work",
     "section": "",
-    "text": "The data for this analysis are collected from the code fund2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which of the following sources are used to pay for your effort as an RSE?”.\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nSince there are multiple responses for this question, the categories reported include Grants”, “Institutional support”, “Industry support”, “Consulting & services”, “I volunteer my time”, and every other source is classified as “Other”.\nThe script for this analysis is available in the file fund.R of the repository.\n\n\n\n\nFunding sources"
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: The Turing Way Community & Scriberia (2024)."
   },
   {
     "objectID": "funding.html#data-source-and-methodology",
     "href": "funding.html#data-source-and-methodology",
     "title": "Funding sources for RSE work",
-    "section": "",
-    "text": "The data for this analysis are collected from the code fund2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which of the following sources are used to pay for your effort as an RSE?”.\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nSince there are multiple responses for this question, the categories reported include Grants”, “Institutional support”, “Industry support”, “Consulting & services”, “I volunteer my time”, and every other source is classified as “Other”.\nThe script for this analysis is available in the file fund.R of the repository.\n\n\n\n\nFunding sources"
+    "section": "Data source and methodology",
+    "text": "Data source and methodology\n\nThe data for this analysis are collected from the code fund2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which of the following sources are used to pay for your effort as an RSE?”.\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nSince there are multiple responses for this question, the categories reported include Grants”, “Institutional support”, “Industry support”, “Consulting & services”, “I volunteer my time”, and every other source is classified as “Other”.\nThe script for this analysis is available in the file fund.R of the repository.\n\n\n\n\nFunding sources"
   },
   {
     "objectID": "funding.html#key-findings",
