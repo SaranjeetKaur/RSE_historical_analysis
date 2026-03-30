@@ -67,14 +67,14 @@
     "href": "version.html",
     "title": "Version control tools used for software development",
     "section": "",
-    "text": "The data for this analysis are collected from the code proj5 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which version control tools do you use for software development?”\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nThe script for this analysis is available in the file proj5_version.R of the repository.\n\n\n\n\nVersion control tools"
+    "text": "Version control, in contrast to ambiguously named files, enables easy picking between successive document versions. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: The Turing Way Community & Scriberia (2024).\nVersion control is the practice of tracking and managing changes to software code, documents, or other related materials over time. It allows multiple people to collaborate on a project, keep track of changes, and revert to previous versions if needed. Version control tools are useful for software development as they help facilitate collaboration and enable efficient project management. In this section, we analyse the version control tools used by RSEs for software development."
   },
   {
     "objectID": "version.html#data-source-and-methodology",
     "href": "version.html#data-source-and-methodology",
     "title": "Version control tools used for software development",
-    "section": "",
-    "text": "The data for this analysis are collected from the code proj5 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which version control tools do you use for software development?”\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nThe script for this analysis is available in the file proj5_version.R of the repository.\n\n\n\n\nVersion control tools"
+    "section": "Data source and methodology",
+    "text": "Data source and methodology\n\nThe data for this analysis are collected from the code proj5 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which version control tools do you use for software development?”\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nThe script for this analysis is available in the file proj5_version.R of the repository.\n\n\n\n\nVersion control tools"
   },
   {
     "objectID": "version.html#key-findings",
