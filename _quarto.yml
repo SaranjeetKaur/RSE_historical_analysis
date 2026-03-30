@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "RSE survey historical analysis"
+  title: "RSE survey analysis"
   navbar:
     left:
       - href: index.qmd
