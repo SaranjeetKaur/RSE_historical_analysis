@@ -18,8 +18,8 @@ the factors that influenced individuals to accept their position as an RSE.
 
 - The data for this analysis are collected from the option `prevEmp2` for the years 2017, 2018, and 2022.
 - The period from 2019 to 2021 is not reported as the data for these years are not available.
-- This code contains the responses to the survey question _"Rank the following factors dependent on how strongly 
-they influenced your decision to accept your current position"_.
+- This code contains the responses to the survey question: **Rank the following factors dependent on how strongly 
+they influenced your decision to accept your current position**.
 - Using the R package `ggplot2`, the data are visualised in the form of a heatmap.
 - The lower the rank, the more important the factor (denoted by green); the higher the rank, the less important the factor (denoted by red).
 - The script for this analysis is available in the file
@@ -31,7 +31,7 @@ they influenced your decision to accept your current position"_.
 
 The most influential factors for moving into RSE roles include:
 
-- "_Opportunity to develop software_"
-- "_Freedom to choose own working practices_" 
-- "_Desire to work in research environment_" 
-- "_Desire to advance research_"
+- **Opportunity to develop software**
+- **Freedom to choose own working practices** 
+- **Desire to work in research environment** 
+- **Desire to advance research**
