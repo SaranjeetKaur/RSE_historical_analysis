@@ -5,6 +5,16 @@ date: "2026-03-07"
 format: html
 ---
 
+![Version control, in contrast to ambiguously named files, enables easy picking between successive document versions.
+The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: [The Turing Way Community &
+Scriberia (2024)](https://doi.org/10.5281/ZENODO.3332807).](fig/version_control.svg)
+
+Version control is the practice of tracking and managing changes to software code, documents, or other related materials
+over time. It allows multiple people to collaborate on a project, keep track of changes,
+and revert to previous versions if needed. Version control tools are useful for software development as
+they help facilitate collaboration and enable efficient project management. In this section, we analyse
+the version control tools used by RSEs for software development.
+
 ## Data source and methodology
 
 - The data for this analysis are collected from the code `proj5` for the years 2017, 2018, and 2022.
