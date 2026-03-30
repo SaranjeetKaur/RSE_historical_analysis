@@ -55,10 +55,8 @@ gg_rank <- ggplot2::ggplot(
   )
 ) +
 
-  # Heatmap tiles
   ggplot2::geom_tile(color = "white") +
 
-  # Shade missing years (2019–2021)
   ggplot2::annotate(
     "rect",
     xmin = 4 - 0.5, xmax = 6 + 0.5,
@@ -66,7 +64,6 @@ gg_rank <- ggplot2::ggplot(
     fill = "grey85", alpha = 0.8
   ) +
 
-  # Add annotation text
   ggplot2::annotate(
     "text",
     x = 5,
@@ -76,7 +73,7 @@ gg_rank <- ggplot2::ggplot(
     hjust = 0.5
   ) +
 
-  # Color scale (NA is blank)
+  # colour scale (NA is blank)
   ggplot2::scale_fill_gradient(
     low = "#1a9641",  # lower rank, more important
     high = "#d7191c", # higher rank, less important

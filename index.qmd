@@ -5,35 +5,15 @@ date: "2026-03-07"
 format: html
 ---
 
-This is an analysis report based on the [RSE survey data](https://github.com/softwaresaved/RSE_survey_longitudinal/) from 2016-2022. Data for the years 2019-2021 are not reported.
+The role of a Research Software Engineer (RSE) has been evolving since [the term was first
+coined](https://www.software.ac.uk/about/research-software-engineers) at Software Sustainability
+Institute's Collaborations Workshop 2012, almost a decade and a half ago. RSEs play an important
+role in the research ecosystem by developing and maintaining software that supports research
+activities.
 
-
-## Disciplines in which RSEs work
-
-![Disciplines in which RSEs work](fig/discipline.png)
-
-In 2022, some of the most popular disciplines where RSEs worked included Computer Science, Geography and Environmental Science Physics and Astronomy, Mathematics, to name a few.
-
-## How are RSEs typically testing software
-
-![Testing practices](fig/proj4_testing_practices.png)
-
-Over the years there has been a shift from no formal testing or users testing the product to developers conducting the test. Moreover, the 2022 data also reports the use of automated testing with continuous integration. This denotes a positive change towards using good software engineering practices.
-
-## Version control tools used for software development
-
-![Version control tools](fig/proj5_version_control.png)
-
-In 2017, 24% of the respondents reported of not using version control tools which reduced to 1% in 2022. The most popular version control tool being "Git", with approximately 87% (in 2022) responses.
-
-## Funding sources for RSE work
-
-![Funding sources](fig/fund2_funding_sources.png)
-
-Over the years, there has been a reduction in the time spent on volunteer basis by RSEs and an improvement in the institutional support for their work.
-
-## Factors influencing the move to RSE roles
-
-![Factors influencing the move to RSE roles](fig/rank_choice.png)
-
-The most influential factors for moving into RSE roles include the "opportunity to develop software", the "freedom to choose own working practices", the "desire to work in research environment", and the "desire to advance research".
+The [international RSE survey](https://www.software.ac.uk/news/2026-international-rse-survey) is
+an annual survey that collects data on the demographics, skills, practices, and
+experiences of RSEs around the world. The survey has been conducted since 2016 providing an opportunity
+to track the evolution of the RSE role over time. This is an analysis report based on the [RSE survey
+data](https://github.com/softwaresaved/RSE_survey_longitudinal/) from 2016-2022. Data for the years 2019-2021
+are not reported.

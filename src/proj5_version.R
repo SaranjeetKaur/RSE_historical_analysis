@@ -48,7 +48,6 @@ plot_data_proj5 <- plot_data_proj5 |>
     )
   )
 
-# Compute position for labels inside stacks
 plot_data_proj5 <- plot_data_proj5 |>
   dplyr::group_by(year) |>
   dplyr::mutate(

@@ -35,8 +35,6 @@ trend_data <- trend_data |>
   dplyr::mutate(prop = n / sum(n)) |>
   dplyr::ungroup()
 
-## Stacked bar plot
-
 plot_data_full <- tidyr::complete(
   trend_data,
   year = 2016:2022,
@@ -53,7 +51,6 @@ plot_data_full <- plot_data_full |>
     )
   )
 
-# Compute position for labels inside stacks
 plot_data_full <- plot_data_full |>
   dplyr::group_by(year) |>
   dplyr::mutate(
@@ -65,7 +62,6 @@ gg <- ggplot2::ggplot(plot_data_full, ggplot2::aes(x = factor(year), y = prop, f
 
   ggplot2::geom_bar(stat = "identity", position = "fill", size = 0.3) +
 
-  # Shade missing years (2019–2021)
   ggplot2::annotate(
     "rect",
     xmin = 4 - 0.5, xmax = 6 + 0.5,
@@ -73,7 +69,6 @@ gg <- ggplot2::ggplot(plot_data_full, ggplot2::aes(x = factor(year), y = prop, f
     fill = "grey80", alpha = 1.4
   ) +
 
-  # Annotation text for missing years
   ggplot2::annotate(
     "text",
     x = 6, y = 0.5,

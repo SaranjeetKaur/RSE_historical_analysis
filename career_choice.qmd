@@ -1,0 +1,26 @@
+---
+title: "Factors influencing the move to RSE roles"
+author: "Saranjeet Kaur Bhogal"
+date: "2026-03-07"
+format: html
+---
+
+## Data source and methodology
+
+- The data for this analysis are collected from the code `prevEmp2` for the years 2017, 2018, and 2022.
+- The period from 2019 to 2021 is not reported as the data for these years are not available.
+- This code contains the responses to the survey question "Rank the following factors dependent on how strongly they influenced your decision to accept your current position".
+- Using the R package `ggplot2`, the data are visualised in the form of a heatmap.
+- The lower the rank, the more important the factor (denoted by green); the higher the rank, the less important the factor (denoted by red).
+- The script for this analysis is available in the file [rank_choice.R](src/rank_choice.R) of the repository.
+
+![Factors influencing the move to RSE roles](fig/rank_choice.png)
+
+## Key findings
+
+The most influential factors for moving into RSE roles include:
+
+- "Opportunity to develop software"
+- "Freedom to choose own working practices" 
+- "Desire to work in research environment" 
+- "Desire to advance research"

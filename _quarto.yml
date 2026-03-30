@@ -7,5 +7,15 @@ website:
     left:
       - href: index.qmd
         text: "Report"
+      - href: disciplines.qmd
+        text: "Disciplines"
+      - href: testing.qmd
+        text: "Testing practices"
+      - href: version.qmd
+        text: "Version control practices"
+      - href: funding.qmd
+        text: "Funding sources"
+      - href: career_choice.qmd
+        text: "Career choice"
 
 format: html

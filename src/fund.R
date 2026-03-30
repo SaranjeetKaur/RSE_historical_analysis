@@ -65,7 +65,6 @@ gg <- ggplot2::ggplot(
 
   ggplot2::geom_bar(stat = "identity", position = "fill", size = 0.3) +
 
-  # Labels inside stacks
   ggplot2::geom_text(
     ggplot2::aes(
       y = ypos,
@@ -75,7 +74,6 @@ gg <- ggplot2::ggplot(
     na.rm = TRUE
   ) +
 
-  # Shade missing years
   ggplot2::annotate(
     "rect",
     xmin = 4 - 0.5, xmax = 6 + 0.5,
@@ -83,7 +81,6 @@ gg <- ggplot2::ggplot(
     fill = "grey80", alpha = 1
   ) +
 
-  # Annotation
   ggplot2::annotate(
     "text",
     x = 5, y = 0.5,
