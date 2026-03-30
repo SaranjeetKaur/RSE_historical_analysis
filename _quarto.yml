@@ -6,7 +6,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: "Report"
+        text: "About"
       - href: disciplines.qmd
         text: "Disciplines"
       - href: testing.qmd
@@ -17,5 +17,9 @@ website:
         text: "Funding sources"
       - href: career_choice.qmd
         text: "Career choice"
+
+    right:
+      - icon: github
+        href: https://github.com/SaranjeetKaur/RSE_historical_analysis
 
 format: html
