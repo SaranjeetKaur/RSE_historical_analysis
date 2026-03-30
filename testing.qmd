@@ -20,7 +20,8 @@ their software.
 - The period from 2019 to 2021 is not reported as the data for these years are not available.
 - This code contains the responses to the survey question "How are your projects typically tested? Please check all that apply".
 - Using the R package `ggplot2`, the data are visualised in the form of a stacked bar chart.
-- The script for this analysis is available in the file [proj4_test.R](src/proj4_test.R) of the repository.
+- The script for this analysis is available in the file
+[proj4_test.R](https://github.com/SaranjeetKaur/RSE_historical_analysis/blob/main/src/proj4_test.R) of the repository.
 
 ![Testing practices](fig/proj4_testing_practices.png)
 

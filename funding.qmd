@@ -22,7 +22,8 @@ the years.
 - Since there are multiple responses for this question, the categories reported include Grants",
 "Institutional support", "Industry support", "Consulting & services", "I volunteer my time",
 and every other source is classified as "Other".
-- The script for this analysis is available in the file [fund.R](src/fund.R) of the repository.
+- The script for this analysis is available in the file
+[fund.R](https://github.com/SaranjeetKaur/RSE_historical_analysis/blob/main/src/fund.R) of the repository.
 
 ![Funding sources](fig/fund2_funding_sources.png)
 

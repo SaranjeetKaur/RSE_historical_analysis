@@ -21,7 +21,8 @@ the factors that influenced individuals to accept their position as an RSE.
 - This code contains the responses to the survey question "Rank the following factors dependent on how strongly they influenced your decision to accept your current position".
 - Using the R package `ggplot2`, the data are visualised in the form of a heatmap.
 - The lower the rank, the more important the factor (denoted by green); the higher the rank, the less important the factor (denoted by red).
-- The script for this analysis is available in the file [rank_choice.R](src/rank_choice.R) of the repository.
+- The script for this analysis is available in the file
+[rank_choice.R](https://github.com/SaranjeetKaur/RSE_historical_analysis/blob/main/src/rank_choice.R) of the repository.
 
 ![Factors influencing the move to RSE roles](fig/rank_choice.png)
 

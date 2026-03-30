@@ -17,7 +17,8 @@ the disciplines in which RSEs work (only for the year 2022), based on their resp
 - The data for this analysis are collected from the code `currentEmp13` for the year 2022.
 - This code contains the responses to the survey question "Please select the discipline in which you work".
 - Using the R package `ggplot2` and `ggwordcloud`, the data are visualised in the form of a word cloud.
-- The script for this analysis is available in the file [discipline.R](src/discipline.R) of the repository.
+- The script for this analysis is available in the file
+[discipline.R](https://github.com/SaranjeetKaur/RSE_historical_analysis/blob/main/src/discipline.R) of the repository.
 
 ![Word cloud of disciplines in which RSEs work (2022)](fig/discipline.png)
 
