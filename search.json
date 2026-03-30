@@ -11,7 +11,7 @@
     "href": "testing.html#data-source-and-methodology",
     "title": "How are RSEs typically testing software?",
     "section": "Data source and methodology",
-    "text": "Data source and methodology\n\nThe data for this analysis are collected from the code proj4can for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “How are your projects typically tested? Please check all that apply”.\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nThe script for this analysis is available in the file proj4_test.R of the repository.\n\n\n\n\nTesting practices"
+    "text": "Data source and methodology\n\nThe data for this analysis are collected from the option proj4can for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “How are your projects typically tested? Please check all that apply”.\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nThe script for this analysis is available in the file proj4_test.R of the repository.\n\n\n\n\nTesting practices"
   },
   {
     "objectID": "testing.html#key-findings",
@@ -32,7 +32,7 @@
     "href": "career_choice.html#data-source-and-methodology",
     "title": "Factors influencing the move to RSE roles",
     "section": "Data source and methodology",
-    "text": "Data source and methodology\n\nThe data for this analysis are collected from the code prevEmp2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Rank the following factors dependent on how strongly they influenced your decision to accept your current position”.\nUsing the R package ggplot2, the data are visualised in the form of a heatmap.\nThe lower the rank, the more important the factor (denoted by green); the higher the rank, the less important the factor (denoted by red).\nThe script for this analysis is available in the file rank_choice.R of the repository.\n\n\n\n\nFactors influencing the move to RSE roles"
+    "text": "Data source and methodology\n\nThe data for this analysis are collected from the option prevEmp2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Rank the following factors dependent on how strongly they influenced your decision to accept your current position”.\nUsing the R package ggplot2, the data are visualised in the form of a heatmap.\nThe lower the rank, the more important the factor (denoted by green); the higher the rank, the less important the factor (denoted by red).\nThe script for this analysis is available in the file rank_choice.R of the repository.\n\n\n\n\nFactors influencing the move to RSE roles"
   },
   {
     "objectID": "career_choice.html#key-findings",
@@ -53,7 +53,7 @@
     "href": "funding.html#data-source-and-methodology",
     "title": "Funding sources for RSE work",
     "section": "Data source and methodology",
-    "text": "Data source and methodology\n\nThe data for this analysis are collected from the code fund2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which of the following sources are used to pay for your effort as an RSE?”.\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nSince there are multiple responses for this question, the categories reported include Grants”, “Institutional support”, “Industry support”, “Consulting & services”, “I volunteer my time”, and every other source is classified as “Other”.\nThe script for this analysis is available in the file fund.R of the repository.\n\n\n\n\nFunding sources"
+    "text": "Data source and methodology\n\nThe data for this analysis are collected from the option fund2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which of the following sources are used to pay for your effort as an RSE?”.\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nSince there are multiple responses for this question, the categories reported include Grants”, “Institutional support”, “Industry support”, “Consulting & services”, “I volunteer my time”, and every other source is classified as “Other”.\nThe script for this analysis is available in the file fund.R of the repository.\n\n\n\n\nFunding sources"
   },
   {
     "objectID": "funding.html#key-findings",
@@ -74,7 +74,7 @@
     "href": "version.html#data-source-and-methodology",
     "title": "Version control tools used for software development",
     "section": "Data source and methodology",
-    "text": "Data source and methodology\n\nThe data for this analysis are collected from the code proj5 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which version control tools do you use for software development?”\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nThe script for this analysis is available in the file proj5_version.R of the repository.\n\n\n\n\nVersion control tools"
+    "text": "Data source and methodology\n\nThe data for this analysis are collected from the option proj5 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Which version control tools do you use for software development?”\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nThe script for this analysis is available in the file proj5_version.R of the repository.\n\n\n\n\nVersion control tools"
   },
   {
     "objectID": "version.html#key-findings",
@@ -102,7 +102,7 @@
     "href": "disciplines.html#data-source-and-methodology",
     "title": "Disciplines in which RSEs work",
     "section": "Data source and methodology",
-    "text": "Data source and methodology\n\nThe data for this analysis are collected from the code currentEmp13 for the year 2022.\nThis code contains the responses to the survey question “Please select the discipline in which you work”.\nUsing the R package ggplot2 and ggwordcloud, the data are visualised in the form of a word cloud.\nThe script for this analysis is available in the file discipline.R of the repository.\n\n\n\n\nWord cloud of disciplines in which RSEs work (2022)"
+    "text": "Data source and methodology\n\nThe data for this analysis are collected from the option currentEmp13 for the year 2022.\nThis code contains the responses to the survey question “Please select the discipline in which you work”.\nUsing the R package ggplot2 and ggwordcloud, the data are visualised in the form of a word cloud.\nThe script for this analysis is available in the file discipline.R of the repository.\n\n\n\n\nWord cloud of disciplines in which RSEs work (2022)"
   },
   {
     "objectID": "disciplines.html#key-findings",
