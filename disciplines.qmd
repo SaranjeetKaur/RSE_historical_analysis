@@ -5,6 +5,11 @@ date: "2026-03-07"
 format: html
 ---
 
+![Different disciplines](fig/domains.jpg)
+
+RSEs have a wide range of backgrounds and work in various disciplines. This section explores
+the disciplines in which RSEs work (only for the year 2022), based on their responses to the survey.
+
 ## Data source and methodology
 
 - The data for this analysis are collected from the code `currentEmp13` for the year 2022.

@@ -27,5 +27,5 @@ their software.
 ## Key findings
 
 Over the years there has been a shift from no formal testing or users testing the product to developers
-conducting the test. Moreover, the 2022 data also reports the use of automated testing with continuous integration.
-This denotes a healthy change towards using good software engineering practices.
+conducting the test. Moreover, the 2022 data also reports the use of **automated testing with continuous
+integration**. This suggests a change towards using good software engineering practices.
