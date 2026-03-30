@@ -22,4 +22,6 @@ website:
       - icon: github
         href: https://github.com/SaranjeetKaur/RSE_historical_analysis
 
-format: html
+format: 
+  html:
+    toc: true
