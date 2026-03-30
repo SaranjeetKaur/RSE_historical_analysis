@@ -22,7 +22,7 @@ to track the evolution of the RSE role over time. This is an analysis report bas
 data](https://github.com/softwaresaved/RSE_survey_longitudinal/) from 2016-2022. Data for the years 2019-2021
 are not reported.
 
-In this report, we explore the following aspects of the RSE role:
+In this report, we explore the following aspects of the RSE community:
 
 - [Disciplines in which RSEs work](disciplines.qmd)
 - [How are RSEs typically testing software](testing.qmd)
