@@ -5,6 +5,15 @@ date: "2026-03-07"
 format: html
 ---
 
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence.
+DOI: [The Turing Way Community & Scriberia
+(2024)](https://doi.org/10.5281/ZENODO.3332807).](fig/continuous_integration.jpg)
+
+Testing research software ensures that the software is reliable and reproducible.
+It helps identify and fix bugs, improve code quality, and ensure that the software
+meets the requirements of its users. In this section, we analyse how RSEs typically test
+their software.
+
 ## Data source and methodology
 
 - The data for this analysis are collected from the code `proj4can` for the years 2017, 2018, and 2022.
