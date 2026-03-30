@@ -9,7 +9,7 @@
 <meta name="author" content="Saranjeet Kaur Bhogal">
 <meta name="dcterms.date" content="2026-03-07">
 
-<title>What have we learnt from the RSE journey so far – RSE survey historical analysis</title>
+<title>Disciplines in which RSEs work – RSE survey historical analysis</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Report</span></a>
   </li>  
   <li class="nav-item">
@@ -138,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">What have we learnt from the RSE journey so far</h1>
+<h1 class="title">Disciplines in which RSEs work</h1>
 </div>
 
 
@@ -167,10 +167,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The role of a Research Software Engineer (RSE) has been evolving since <a href="https://www.software.ac.uk/about/research-software-engineers">the term was first coined</a> at Software Sustainability Institute’s Collaborations Workshop 2012, almost a decade and a half ago. RSEs play an important role in the research ecosystem by developing and maintaining software that supports research activities.</p>
-<p>The <a href="https://www.software.ac.uk/news/2026-international-rse-survey">international RSE survey</a> is an annual survey that collects data on the demographics, skills, practices, and experiences of RSEs around the world. The survey has been conducted since 2016 providing an opportunity to track the evolution of the RSE role over time. This is an analysis report based on the <a href="https://github.com/softwaresaved/RSE_survey_longitudinal/">RSE survey data</a> from 2016-2022. Data for the years 2019-2021 are not reported.</p>
+<section id="data-source-and-methodology" class="level2">
+<h2 class="anchored" data-anchor-id="data-source-and-methodology">Data source and methodology</h2>
+<ul>
+<li>The data for this analysis are collected from the code <code>currentEmp13</code> for the year 2022.</li>
+<li>This code contains the responses to the survey question “Please select the discipline in which you work”.</li>
+<li>Using the R package <code>ggplot2</code> and <code>ggwordcloud</code>, the data are visualised in the form of a word cloud.</li>
+<li>The script for this analysis is available in the file <a href="src/discipline.R">discipline.R</a> of the repository.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="fig/discipline.png" class="img-fluid figure-img"></p>
+<figcaption>Word cloud of disciplines in which RSEs work (2022)</figcaption>
+</figure>
+</div>
+</section>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key findings</h2>
+<p>In 2022, some of the most popular disciplines where RSEs worked included Computer Science, Geography and Environmental Science, Physics and Astronomy, Mathematics, to name a few. This reflects the diversity of the RSE community and the wide range of research areas where RSEs contribute. The word cloud also shows that there are many other disciplines where RSEs work, indicating the interdisciplinary nature of RSE roles.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

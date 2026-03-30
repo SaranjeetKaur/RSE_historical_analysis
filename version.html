@@ -9,7 +9,7 @@
 <meta name="author" content="Saranjeet Kaur Bhogal">
 <meta name="dcterms.date" content="2026-03-07">
 
-<title>What have we learnt from the RSE journey so far – RSE survey historical analysis</title>
+<title>Version control tools used for software development – RSE survey historical analysis</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -98,7 +98,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Report</span></a>
   </li>  
   <li class="nav-item">
@@ -110,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Testing practices</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./version.html"> 
+    <a class="nav-link active" href="./version.html" aria-current="page"> 
 <span class="menu-text">Version control practices</span></a>
   </li>  
   <li class="nav-item">
@@ -138,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">What have we learnt from the RSE journey so far</h1>
+<h1 class="title">Version control tools used for software development</h1>
 </div>
 
 
@@ -167,10 +167,28 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The role of a Research Software Engineer (RSE) has been evolving since <a href="https://www.software.ac.uk/about/research-software-engineers">the term was first coined</a> at Software Sustainability Institute’s Collaborations Workshop 2012, almost a decade and a half ago. RSEs play an important role in the research ecosystem by developing and maintaining software that supports research activities.</p>
-<p>The <a href="https://www.software.ac.uk/news/2026-international-rse-survey">international RSE survey</a> is an annual survey that collects data on the demographics, skills, practices, and experiences of RSEs around the world. The survey has been conducted since 2016 providing an opportunity to track the evolution of the RSE role over time. This is an analysis report based on the <a href="https://github.com/softwaresaved/RSE_survey_longitudinal/">RSE survey data</a> from 2016-2022. Data for the years 2019-2021 are not reported.</p>
+<section id="data-source-and-methodology" class="level2">
+<h2 class="anchored" data-anchor-id="data-source-and-methodology">Data source and methodology</h2>
+<ul>
+<li>The data for this analysis are collected from the code <code>proj5</code> for the years 2017, 2018, and 2022.</li>
+<li>The period from 2019 to 2021 is not reported as the data for these years are not available.</li>
+<li>This code contains the responses to the survey question “Which version control tools do you use for software development?”</li>
+<li>Using the R package <code>ggplot2</code>, the data are visualised in the form of a stacked bar chart.</li>
+<li>The script for this analysis is available in the file <a href="src/proj5_version.R">proj5_version.R</a> of the repository.</li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="fig/proj5_version_control.png" class="img-fluid figure-img"></p>
+<figcaption>Version control tools</figcaption>
+</figure>
+</div>
+</section>
+<section id="key-findings" class="level2">
+<h2 class="anchored" data-anchor-id="key-findings">Key findings</h2>
+<p>In 2017, 24% of the respondents reported of not using version control tools which reduced to 1% in 2022. The most popular version control tool being “Git”, with approximately 87% (in 2022) responses.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
