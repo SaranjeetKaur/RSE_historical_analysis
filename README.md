@@ -1,0 +1,1 @@
+Analysis report based on the [RSE survey data](https://github.com/softwaresaved/RSE_survey_longitudinal/) from 2016-2022. Data for the years 2019-2021 are not reported.
