@@ -9,6 +9,10 @@ format: html
 DOI: [The Turing Way Community & Scriberia
 (2024)](https://doi.org/10.5281/ZENODO.3332807).](fig/funding.png)
 
+Funding is an important aspect of the RSE role as it enables RSEs to dedicate time and
+resources to their work. In this section, we analyse the funding sources for RSE work over
+the years.
+
 ## Data source and methodology
 
 - The data for this analysis are collected from the code `fund2` for the years 2017, 2018, and 2022.
