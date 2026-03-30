@@ -5,6 +5,15 @@ date: "2026-03-07"
 format: html
 ---
 
+![The Turing Way community illustrated as a garden. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence.
+DOI: [The Turing Way Community & Scriberia (2024)](https://doi.org/10.5281/ZENODO.3332807).](fig/career_choice.svg)
+
+The RSE role is a relatively new and evolving role in the research ecosystem.
+Many individuals may transition into RSE roles from other career paths, such as research, software development, or a combination of
+both. Understanding the factors that influence individuals to move into RSE roles gives an idea into the motivations and aspirations of
+RSEs, as well as inform strategies for attracting and retaining talent in this field. In this section, we analyse
+the factors that influenced individuals to accept their position as an RSE.
+
 ## Data source and methodology
 
 - The data for this analysis are collected from the code `prevEmp2` for the years 2017, 2018, and 2022.
