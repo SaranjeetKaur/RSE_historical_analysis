@@ -25,14 +25,14 @@
     "href": "career_choice.html",
     "title": "Factors influencing the move to RSE roles",
     "section": "",
-    "text": "The data for this analysis are collected from the code prevEmp2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Rank the following factors dependent on how strongly they influenced your decision to accept your current position”.\nUsing the R package ggplot2, the data are visualised in the form of a heatmap.\nThe lower the rank, the more important the factor (denoted by green); the higher the rank, the less important the factor (denoted by red).\nThe script for this analysis is available in the file rank_choice.R of the repository.\n\n\n\n\nFactors influencing the move to RSE roles"
+    "text": "The Turing Way community illustrated as a garden. The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: The Turing Way Community & Scriberia (2024).\nThe RSE role is a relatively new and evolving role in the research ecosystem. Many individuals may transition into RSE roles from other career paths, such as research, software development, or a combination of both. Understanding the factors that influence individuals to move into RSE roles gives an idea into the motivations and aspirations of RSEs, as well as inform strategies for attracting and retaining talent in this field. In this section, we analyse the factors that influenced individuals to accept their position as an RSE."
   },
   {
     "objectID": "career_choice.html#data-source-and-methodology",
     "href": "career_choice.html#data-source-and-methodology",
     "title": "Factors influencing the move to RSE roles",
-    "section": "",
-    "text": "The data for this analysis are collected from the code prevEmp2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Rank the following factors dependent on how strongly they influenced your decision to accept your current position”.\nUsing the R package ggplot2, the data are visualised in the form of a heatmap.\nThe lower the rank, the more important the factor (denoted by green); the higher the rank, the less important the factor (denoted by red).\nThe script for this analysis is available in the file rank_choice.R of the repository.\n\n\n\n\nFactors influencing the move to RSE roles"
+    "section": "Data source and methodology",
+    "text": "Data source and methodology\n\nThe data for this analysis are collected from the code prevEmp2 for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “Rank the following factors dependent on how strongly they influenced your decision to accept your current position”.\nUsing the R package ggplot2, the data are visualised in the form of a heatmap.\nThe lower the rank, the more important the factor (denoted by green); the higher the rank, the less important the factor (denoted by red).\nThe script for this analysis is available in the file rank_choice.R of the repository.\n\n\n\n\nFactors influencing the move to RSE roles"
   },
   {
     "objectID": "career_choice.html#key-findings",
@@ -81,7 +81,7 @@
     "href": "version.html#key-findings",
     "title": "Version control tools used for software development",
     "section": "Key findings",
-    "text": "Key findings\nIn 2017, 24% of the respondents reported of not using version control tools which reduced to 1% in 2022. The most popular version control tool being “Git”, with approximately 87% (in 2022) responses."
+    "text": "Key findings\nIn 2017, 24% of the respondents reported of not using version control tools which reduced to 3% in 2022. The most popular version control tool being “Git”, with approximately 87% (in 2022) responses."
   },
   {
     "objectID": "index.html",
