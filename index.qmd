@@ -5,6 +5,10 @@ date: "2026-03-07"
 format: html
 ---
 
+![The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence.
+DOI: [The Turing Way Community & Scriberia
+(2024)](https://doi.org/10.5281/ZENODO.3332807).](fig/research_environment.jpg)
+
 The role of a Research Software Engineer (RSE) has been evolving since [the term was first
 coined](https://www.software.ac.uk/about/research-software-engineers) at Software Sustainability
 Institute's Collaborations Workshop 2012, almost a decade and a half ago. RSEs play an important
