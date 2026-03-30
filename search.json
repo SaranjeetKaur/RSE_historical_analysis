@@ -2,21 +2,21 @@
   {
     "objectID": "testing.html",
     "href": "testing.html",
-    "title": "How are RSEs typically testing software?",
+    "title": "How are RSEs typically testing software",
     "section": "",
     "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: The Turing Way Community & Scriberia (2024).\nTesting research software ensures that the software is reliable and reproducible. It helps identify and fix bugs, improve code quality, and ensure that the software meets the requirements of its users. In this section, we analyse how RSEs typically test their software."
   },
   {
     "objectID": "testing.html#data-source-and-methodology",
     "href": "testing.html#data-source-and-methodology",
-    "title": "How are RSEs typically testing software?",
+    "title": "How are RSEs typically testing software",
     "section": "Data source and methodology",
     "text": "Data source and methodology\n\nThe data for this analysis are collected from the option proj4can for the years 2017, 2018, and 2022.\nThe period from 2019 to 2021 is not reported as the data for these years are not available.\nThis code contains the responses to the survey question “How are your projects typically tested? Please check all that apply”.\nUsing the R package ggplot2, the data are visualised in the form of a stacked bar chart.\nThe script for this analysis is available in the file proj4_test.R of the repository.\n\n\n\n\nTesting practices"
   },
   {
     "objectID": "testing.html#key-findings",
     "href": "testing.html#key-findings",
-    "title": "How are RSEs typically testing software?",
+    "title": "How are RSEs typically testing software",
     "section": "Key findings",
     "text": "Key findings\nOver the years there has been a shift from no formal testing or users testing the product to developers conducting the test. Moreover, the 2022 data also reports the use of automated testing with continuous integration. This suggests a change towards using good software engineering practices."
   },
@@ -88,7 +88,7 @@
     "href": "index.html",
     "title": "What have we learnt from the RSE journey so far",
     "section": "",
-    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: The Turing Way Community & Scriberia (2024).\n\n\nThe role of a Research Software Engineer (RSE) has been evolving since the term was first coined at Software Sustainability Institute’s Collaborations Workshop 2012, almost a decade and a half ago. RSEs play an important role in the research ecosystem by developing and maintaining software that supports research activities.\nThe international RSE survey is an annual survey that collects data on the demographics, skills, practices, and experiences of RSEs around the world. The survey has been conducted since 2016 providing an opportunity to track the evolution of the RSE role over time. This is an analysis report based on the RSE survey data from 2016-2022. Data for the years 2019-2021 are not reported."
+    "text": "The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence. DOI: The Turing Way Community & Scriberia (2024).\n\n\nThe role of a Research Software Engineer (RSE) has been evolving since the term was first coined at Software Sustainability Institute’s Collaborations Workshop 2012, almost a decade and a half ago. RSEs play an important role in the research ecosystem by developing and maintaining software that supports research activities.\nThe international RSE survey is an annual survey that collects data on the demographics, skills, practices, and experiences of RSEs around the world. The survey has been conducted since 2016 providing an opportunity to track the evolution of the RSE role over time. This is an analysis report based on the RSE survey data from 2016-2022. Data for the years 2019-2021 are not reported.\nIn this report, we explore the following aspects of the RSE role:\n\nDisciplines in which RSEs work\nHow are RSEs typically testing software\nVersion control tools used for software development\nFunding sources for RSE work\nFactors influencing the move to RSE roles"
   },
   {
     "objectID": "disciplines.html",
