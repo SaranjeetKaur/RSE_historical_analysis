@@ -21,3 +21,11 @@ experiences of RSEs around the world. The survey has been conducted since 2016 p
 to track the evolution of the RSE role over time. This is an analysis report based on the [RSE survey
 data](https://github.com/softwaresaved/RSE_survey_longitudinal/) from 2016-2022. Data for the years 2019-2021
 are not reported.
+
+In this report, we explore the following aspects of the RSE role:
+
+- [Disciplines in which RSEs work](disciplines.qmd)
+- [How are RSEs typically testing software](testing.qmd)
+- [Version control tools used for software development](version.qmd)
+- [Funding sources for RSE work](funding.qmd)
+- [Factors influencing the move to RSE roles](career_choice.qmd)

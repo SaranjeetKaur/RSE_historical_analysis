@@ -1,5 +1,5 @@
 ---
-title: "How are RSEs typically testing software?"
+title: "How are RSEs typically testing software"
 author: "Saranjeet Kaur Bhogal"
 date: "2026-03-07"
 format: html
