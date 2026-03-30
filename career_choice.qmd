@@ -16,7 +16,7 @@ the factors that influenced individuals to accept their position as an RSE.
 
 ## Data source and methodology
 
-- The data for this analysis are collected from the code `prevEmp2` for the years 2017, 2018, and 2022.
+- The data for this analysis are collected from the option `prevEmp2` for the years 2017, 2018, and 2022.
 - The period from 2019 to 2021 is not reported as the data for these years are not available.
 - This code contains the responses to the survey question "Rank the following factors dependent on how strongly they influenced your decision to accept your current position".
 - Using the R package `ggplot2`, the data are visualised in the form of a heatmap.
