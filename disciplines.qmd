@@ -5,7 +5,9 @@ date: "2026-03-07"
 format: html
 ---
 
-![Different disciplines](fig/domains.jpg)
+![Adapted version of The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 licence.
+DOI: [The Turing Way Community & Scriberia
+(2024)](https://doi.org/10.5281/ZENODO.3332807).](fig/domains.jpg)
 
 RSEs have a wide range of backgrounds and work in various disciplines. This section explores
 the disciplines in which RSEs work (only for the year 2022), based on their responses to the survey.
